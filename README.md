@@ -1,6 +1,7 @@
 # Course Certificates
 
-## The purpose of this repositery is to store Linkedln Learning Certificates for Jupiter, Python, Numpy, and GitHub trainings.
+## Purpose
+This repositery contains Linkedln Learning Certificates for Jupiter, Python, Numpy, and GitHub trainings.
 
 ### 1. Jupiter
 
