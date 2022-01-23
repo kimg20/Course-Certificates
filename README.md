@@ -1,6 +1,6 @@
 # 📁 Course Certificates
 
-## Purpose
+## ✏️ Purpose
 This repositery contains Linkedin Learning Certificates for Jupiter, Python, Numpy, and GitHub trainings.
 
 ### 1. Jupyter
