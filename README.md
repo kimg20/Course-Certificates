@@ -4,6 +4,7 @@
 This repositery contains Linkedln Learning Certificates for Jupiter, Python, Numpy, and GitHub trainings.
 
 ### 1. Jupiter
+Linkedin Learning for Jupyter notebooks
 
 ### 2. Python
 
