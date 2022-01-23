@@ -10,4 +10,4 @@ Linkedin Learning Certificates for [Jupyter notebooks](certificates/Jupyter.jpg)
 Linkedin Learning Certificates for [Python programming](certificates/Python.jpg)
 
 ## 3. Numpy
-Linkin Learning Certificates for [NumPy](certificates/Numpy.jpg)
+Linkedin Learning Certificates for [NumPy](certificates/Numpy.jpg)
